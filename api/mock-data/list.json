@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "mercury",
+    "description": "The smallest planet in the Solar System",
+    "image": "http://localhost:8000/images/mercury.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "venus",
+    "description": "Venus is close in size to Earth and, like Earth, has a thick silicate mantle around an iron core, a substantial atmosphere, and evidence of internal geological activity.",
+    "image": "http://localhost:8000/images/venus.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "earth",
+    "description": "Earth is the largest and densest of the inner planets, the only one known to have current geological activity, and the only place where life is known to exist.",
+    "image": "http://localhost:8000/images/earth.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "mars",
+    "description": "Mars is smaller than Earth and Venus. It has an atmosphere of mostly carbon dioxide.",
+    "image": "http://localhost:8000/images/mars.jpeg"
+  }
+]
