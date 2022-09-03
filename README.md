@@ -10,3 +10,6 @@
 * From root `cd web`
 * Run `npm i`
 * Start server with `npm start`
+
+### Acknowledgement
+Planet images are taken from an <a href="https://www.freepik.com/free-vector/solar-system-galaxy_9736239.htm#query=planet%20jupiter&position=12&from_view=keyword">image by brgfx</a> on  <a href="https://www.freepik.com/">Freepik</a>
